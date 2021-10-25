@@ -1,0 +1,3 @@
+## Notes
+
+super simple animations..not too sure how useful this one was tbh other than learning about a couple CSS properties...
